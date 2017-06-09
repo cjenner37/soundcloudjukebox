@@ -1,0 +1,21 @@
+#play-button {
+   height:0px;
+   width:0px;
+   border-top: 50px dashed transparent;
+   border-bottom: 50px dashed transparent;
+   border-left: 80px solid grey;
+   display: inline-block;
+   margin: 100px;
+}
+
+#play-button:hover {
+	cursor: pointer;
+}
+
+#stop-button:hover {
+	background-color: black;
+}
+
+#song-list {
+	
+}
